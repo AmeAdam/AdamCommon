@@ -1,5 +1,0 @@
-D:\work\AdamCommon\src\Commons\bin\Debug\Commons.dll
-D:\work\AdamCommon\src\Commons\bin\Debug\Commons.pdb
-D:\work\AdamCommon\src\Commons\obj\Debug\Commons.csprojResolveAssemblyReference.cache
-D:\work\AdamCommon\src\Commons\obj\Debug\Commons.dll
-D:\work\AdamCommon\src\Commons\obj\Debug\Commons.pdb
